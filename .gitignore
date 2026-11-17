@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.py[cod]
+uploads/
+*.log
+*.db
+*.before_*
+ocr_test.png
+test.png
